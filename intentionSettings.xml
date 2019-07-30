@@ -45,5 +45,6 @@
     <ignoreAction name="XSLT/Convert if to choose" />
     <ignoreAction name="XSLT/Inline xsl:attribute" />
     <ignoreAction name="XSLT/Replace with xsl:attribute" />
+    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
   </component>
 </application>
