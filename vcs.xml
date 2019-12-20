@@ -14,6 +14,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="georgeciubotaru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/planetflash/sharing_variables_js_sass.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/projects" />
