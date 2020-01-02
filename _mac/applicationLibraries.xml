@@ -15,10 +15,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_3.7.1_firebase-messaging.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_7.6.1_firebase-messaging.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_3.7.1_firebase-messaging.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_7.6.1_firebase-messaging.js" />
       </CLASSES>
       <SOURCES />
     </library>
