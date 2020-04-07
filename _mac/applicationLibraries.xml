@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="babel-core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.8.34_browser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.8.34_browser.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="draft-js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_draft-js@0.11.5_lib_Draft.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_draft-js@0.11.5_lib_Draft.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="firebase-app" type="javaScript">
       <properties>
         <sourceFilesUrls>
