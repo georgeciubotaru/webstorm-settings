@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/planetflash/sharing_variables_js_sass.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/facebook/draft-js.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/projects" />
