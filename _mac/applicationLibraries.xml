@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="dist" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_widget.totle.com_latest_dist.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_widget.totle.com_latest_dist.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="firebase-app" type="javaScript">
       <properties>
         <sourceFilesUrls>
