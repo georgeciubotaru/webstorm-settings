@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Declaration/Split declaration and initialization" />
+    <ignoreAction name="XML/Remove attribute" />
   </component>
 </application>
