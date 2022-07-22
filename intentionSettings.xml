@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Declaration/Split declaration and initialization" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="XML/Remove tag" />
+  </component>
+</application>
